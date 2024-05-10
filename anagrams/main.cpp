@@ -62,7 +62,7 @@ void findWords(const string &query, const vector<string> &dictionary, vector<str
 int main()
 {
     fstream newfile;
-    newfile.open("dict.txt", ios::in);
+    newfile.open("../dict.txt", ios::in);
 
     string query;
     cout << "Enter query: ";

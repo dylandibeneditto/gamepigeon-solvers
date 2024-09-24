@@ -1,0 +1,1 @@
+![word hunt demo](https://github.com/dylandibeneditto/anagram-solver/blob/main/wordhunt_demo.mov?raw=true)
